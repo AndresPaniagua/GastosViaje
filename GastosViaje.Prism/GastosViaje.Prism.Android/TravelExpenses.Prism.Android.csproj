@@ -91,9 +91,9 @@
     </AndroidResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GastosViaje.Prism\GastosViaje.Prism.csproj">
-      <Project>{A682884C-CB44-4A89-B752-27BB634E0ABE}</Project>
-      <Name>GastosViaje.Prism</Name>
+    <ProjectReference Include="..\GastosViaje.Prism\TravelExpenses.Prism.csproj">
+      <Project>{54596A3A-0B4E-4DB0-8C2D-B27F415267FF}</Project>
+      <Name>TravelExpenses.Prism</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GastosViaje.Common", "GastosViaje.Common\GastosViaje.Common.csproj", "{C1B5585C-E972-4784-9CBD-1CE5B5780C94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelExpenses.Common", "GastosViaje.Common\TravelExpenses.Common.csproj", "{C1B5585C-E972-4784-9CBD-1CE5B5780C94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GastosViaje.Web", "GastosViaje.Web\GastosViaje.Web.csproj", "{541D8F4E-D8D4-4885-85E0-0672AB29C004}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelExpenses.Web", "GastosViaje.Web\TravelExpenses.Web.csproj", "{541D8F4E-D8D4-4885-85E0-0672AB29C004}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GastosViaje.Prism", "GastosViaje.Prism\GastosViaje.Prism\GastosViaje.Prism.csproj", "{54596A3A-0B4E-4DB0-8C2D-B27F415267FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelExpenses.Prism", "GastosViaje.Prism\GastosViaje.Prism\TravelExpenses.Prism.csproj", "{54596A3A-0B4E-4DB0-8C2D-B27F415267FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GastosViaje.Prism.Android", "GastosViaje.Prism\GastosViaje.Prism.Android\GastosViaje.Prism.Android.csproj", "{9253352F-1A28-4451-AA24-49B74489A898}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelExpenses.Prism.Android", "GastosViaje.Prism\GastosViaje.Prism.Android\TravelExpenses.Prism.Android.csproj", "{9253352F-1A28-4451-AA24-49B74489A898}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GastosViaje.Prism.iOS", "GastosViaje.Prism\GastosViaje.Prism.iOS\GastosViaje.Prism.iOS.csproj", "{1A12EEFD-3A57-42EE-9FB5-6334E5CB671E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelExpenses.Prism.iOS", "GastosViaje.Prism\GastosViaje.Prism.iOS\TravelExpenses.Prism.iOS.csproj", "{1A12EEFD-3A57-42EE-9FB5-6334E5CB671E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
